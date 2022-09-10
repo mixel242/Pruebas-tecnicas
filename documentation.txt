@@ -1,0 +1,36 @@
+Challenge:
+
+### Web Site:
+
+Write a test for the website: [https://www.kiwibot.com/](https://www.kiwibot.com/) the test should verify if the QA Engineer position is open starting from the home page and filtering by remote jobs in the careers section, then subscribe to the newsletter.
+
+### Web Service:
+
+Read our **API** documentation [https://kiwihub.readme.io/v2.9.2](https://kiwihub.readme.io/v2.9.2/reference/overview) and crate test for the following endpoints:
+
+- Create Quote
+- Create Delivery
+- Get Delivery
+
+API KEY: `AIzaSyBoeZKquQlbxUzwzQLg_-pePYVZg6gT6IY`
+
+REQUESTER ID: `3e77f61f-c434-4fb9-94d9-1699f5a1c14b`
+
+### Also:
+
+- Please list the tools that you know to automate tests
+- Please list the platforms that you know that can help to do a very good QA
+
+#Description:
+
+An automated test was developed on the Kiwibot.com website using Cypress V10.70.0 in which a flow was sought to verify if the QA engineer position was open and then subscribe to the news letter
+
+On the other hand, the creation of an automated test was requested on the API used by kiwibot on 3 endpoints - Create Quote - Create Delivery - Get Delivery
+
+#Extra requests:
+- list the tools that you know to automate tests
+- list the platforms that you know that can help to do a very good QA
+
+***** start command: npm run cypress:open
+
+NOTE: I was only able to develop the automated test of the API using Cypress since the use of cy.request is not yet fully handled, so I still cannot provide a test of the expected quality, I am studying and preparing myself to achieve the best result

@@ -1,0 +1,7 @@
+1. Cypress
+2. Selenium
+3. Playwrite
+4. TestProject
+5. TestCaffe
+6. Appium
+7. JMeter

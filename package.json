@@ -26,5 +26,8 @@
   "homepage": "https://github.com/mixel242/Kiwi-challenge#readme",
   "devDependencies": {
     "cypress": "^10.7.0"
+  },
+  "dependencies": {
+    "api": "^4.5.2"
   }
 }

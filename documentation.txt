@@ -33,4 +33,5 @@ On the other hand, the creation of an automated test was requested on the API us
 
 ***** start command: npm run cypress:open
 
-NOTE: I was only able to develop the automated test of the API using Cypress since the use of cy.request is not yet fully handled, so I still cannot provide a test of the expected quality, I am studying and preparing myself to achieve the best result
+Note: is needed run npm init before running the tests
+
